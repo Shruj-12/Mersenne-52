@@ -3,7 +3,7 @@
 # More information at https://t5k.org/largest.html#references
 
 import sys
-sys.set_int_max_str_digits(41024321)
+sys.set_int_max_str_digits(41024321) # WARNING: MAKE SURE THERE IS ENOUGH MEMORY
 
 print("Max string digits: ", sys.get_int_max_str_digits())
 
