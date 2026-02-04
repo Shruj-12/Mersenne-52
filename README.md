@@ -1,5 +1,5 @@
 # Mersenne-52
-More information about prime numbers and Mersenne 52 at https://www.mersenne.org/
+More information about prime numbers and Mersenne 52 at https://www.mersenne.org/primes/press/M136279841.html
 More information about Mersenne 52 at https://t5k.org/largest.html#references
 
 Prime numbers are numbers that can be divided by only 2 numbers, 1 and itself. 
