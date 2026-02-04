@@ -9,8 +9,9 @@ print("Max string digits: ", sys.get_int_max_str_digits())
 
 print("!START OF MERSENNE 52!")
 mersenne52 = (2 ** 136279841) - 1
-print(mersenne52)
+strM52 = str(mersenne52)
+print(strM52)
 
 print("!END OF MERSENNE 52!")
-print("Digits printed: ", len(str(mersenne52)))
+print("Digits printed: ", len(strM52))
 
