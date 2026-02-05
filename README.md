@@ -2,6 +2,9 @@
 More information about prime numbers and Mersenne 52 at https://www.mersenne.org/primes/press/M136279841.html
 More information about Mersenne 52 at https://t5k.org/largest.html#references
 
+I highly recomend watching my demonstration to see what to expect. This will give you an idea of how long the code will run as well as how much resources it will use.
+Demonstration of this program at https://youtu.be/aAJm2K3GJK8
+
 Prime numbers are numbers that can be divided by only 2 numbers, 1 and itself. 
 (I.e. 1, 2, 3, 5, 7, 11, 13, …)
 
@@ -11,13 +14,11 @@ I ran this Python script on my M4 Pro MacBook Pro which has
 * 24 GB unified memory, 
 * 512 GB SSD storage,
 * M4 Pro 14-core CPU,
-* M4 Pro 20-core GPU,
-* M4 Pro 16-core Neural Engine.
 I was running macOS Tahoe 26.2 (25C56) and version Python 3.13.2 .
 
-This is just my setup and I was tracking macOS Activity Monitor concurrently, observing the highest memory usage of 20 GB and highest CPU of 19.91%. My computer was plugged into charge and was at 100% battery.
+This is just my setup and I was tracking macOS Activity Monitor concurrently, observing the highest memory usage of 2 GB (and highest CPU of 6.5%. My computer was plugged into charge and was at 100% battery.
 
-This script is memory heavy and so I would recommend 32 GB of unified memory to protect your machine.
+This script is memory heavy and so I would recommend at least 16 GB of unified memory to protect your machine.
 
 
 The following is my reflection and iterations that I made before getting this final version.
